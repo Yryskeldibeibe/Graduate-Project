@@ -102,3 +102,4 @@ export const mainSimpleRingData = [
         parameters: "Gold 585 | 0,100 ct. | tw, si € 365,-"
     }
 ]
+
